@@ -1,9 +1,6 @@
 # Задание 1
 Есть скрипт:
-#!/usr/bin/env python3
-a = 1
-b = '2'
-c = a + b
+![sript](https://github.com/EVolgina/devops-netology16/blob/main/skropt1.PNG)
 Ответ:
 Какое значение будет присвоено переменной c? - TypeError: unsupported operand type(s) for +: 'int' and 'str'
 Как получить для переменной c значение 12? - необходимо изменить тип a на str
