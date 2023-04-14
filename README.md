@@ -20,7 +20,7 @@
 ![zd2](https://github.com/EVolgina/devops-netology16/blob/main/zd2.PNG)
 
 Ваш скрипт:
-![skr]()
+![skr](https://github.com/EVolgina/devops-netology16/blob/main/zadane%202.PNG)
 
 Вывод скрипта при запуске во время тестирования:
 ![vivod]()
