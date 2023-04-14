@@ -31,7 +31,7 @@
 
 Ваш скрипт:
 
-![]()
+![]zd3(https://github.com/EVolgina/devops-netology16/blob/main/skripzd3.PNG)
 
 Вывод скрипта при запуске во время тестирования:
 ![zd3vivod](https://github.com/EVolgina/devops-netology16/blob/main/zd3vivod.PNG)
