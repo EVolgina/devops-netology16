@@ -23,7 +23,8 @@
 ![skr](https://github.com/EVolgina/devops-netology16/blob/main/zadane%202.PNG)
 
 Вывод скрипта при запуске во время тестирования:
-![vivod]()
+![vivod](https://github.com/EVolgina/devops-netology16/blob/main/rez2.PNG)
+![viv2]()
 
 
 # Задание 3
