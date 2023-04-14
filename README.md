@@ -53,4 +53,4 @@
 ![]()
 
 Вывод скрипта при запуске во время тестирования:
-![]()
+![zd4](https://github.com/EVolgina/devops-netology16/blob/main/zd4vivvod.PNG)
