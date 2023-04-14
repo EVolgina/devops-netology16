@@ -20,11 +20,13 @@
 ![zd2](https://github.com/EVolgina/devops-netology16/blob/main/zd2.PNG)
 
 Ваш скрипт:
+
 ![skr](https://github.com/EVolgina/devops-netology16/blob/main/zadane%202.PNG)
 
 Вывод скрипта при запуске во время тестирования:
+
 ![vivod](https://github.com/EVolgina/devops-netology16/blob/main/rez2.PNG)
-![viv2]()
+![viv2](https://github.com/EVolgina/devops-netology16/blob/main/rez2-1.PNG)
 
 
 # Задание 3
@@ -32,7 +34,7 @@
 
 Ваш скрипт:
 
-![]zd3(https://github.com/EVolgina/devops-netology16/blob/main/skripzd3.PNG)
+![zd3]zd3(https://github.com/EVolgina/devops-netology16/blob/main/skripzd3.PNG)
 
 Вывод скрипта при запуске во время тестирования:
 ![zd3vivod](https://github.com/EVolgina/devops-netology16/blob/main/zd3vivod.PNG)
